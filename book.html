@@ -43,60 +43,56 @@
         </nav>
     </header>
     <main>
-        <section>
-            <div class="service-t">
-                <h1>Services Available</h1>
-            </div>
-            <div class="access" id="access-home">
-                <div id="access-one">
-                    <div class="access-col">
-                        <h2>General Repairs</h2>
-                        <br>
-                        <p>
-                            We are one of the best environmentally friendly car
-                            workshop. We offer our customers sustainable choices in
-                            need of servicing, repairs, tune-ups, and lubrication.
-                        </p>
-                    </div>
-                    <div class="access-col">
-                        <h3>Parts replacement</h3>
-                        <br>
-                        <p>
-                            You can easily swing by our service workshop as Drop-In, and we will
-                            help you change your part if you do not need any other service. If it cannot be
-                            changed, we can instead help you book an appointment to change it.
-                        </p>
-                    </div>
+        <section class="book-service">
+            <form id="booking" method="GET" action="wdone.html">
+                <div>
+                    <h2>
+                        <i class=" fa-solid fa-wrench"></i> Book Service!
+                    </h2>
+                    <br>
+                    <input type="text" name="first_name" id="first_name" class="text-input"
+                        placeholder="Your first name" required>
+                    <br>
+                    <input type="text" name="last_name" id="last_name" class="text-input" placeholder="Your last name"
+                        required>
+                    <br>
+                    <input type="email" name="email_address" id="email_address" class="text-input"
+                        placeholder="Your email" required>
                 </div>
-                <div id="access-two">
-                    <div class="access-col">
-                        <h3>Tyres</h3>
-                        <br>
-                        <p>
-                            Carweld has the tyres that suit your car and your wishes. As an authorized dealer,
-                            we make sure that you get the safe tyres that your car manufacturer recommends.
-                        </p>
-                    </div>
-                    <div class="access-col">
-                        <h3>Car Wash</h3>
-                        <br>
-                        <p>
-                            Do you want to go home with a new car feeling? Book a car wash and interior
-                            cleaning in connection with your workshop visit and go home in a sparkling
-                            clean car.
-                        </p>
-                    </div>
+                <div>
+                    <input id="service-type" list="services" name="service-type" placeholder="Type of Service"
+                        class="text-input">
+                    <datalist id="services">
+                        <option value="Car Repairs">
+                        <option value="Welding">
+                    </datalist>
                 </div>
-                <div class="carw-pic">
-                    <picture>
-                        <source media="(max-width: 799px)" srcset="assets/images/cars.png">
-                        <source media="(min-width: 800px)" srcset="assets/images/carb.png">
-                        <img src="assets/images/carb.png" alt="car Display">
-                    </picture>
+                <div>
+                    <label for="both">Both</label>
+                    <input type="radio" name="service-type" id="both" value="both">
                 </div>
-            </div>
+                <p><span><input type="checkbox" required></span>
+                    I agree to the terms of service
+                </p>
+                <br>
+                <button type="submit" class="join-button">Book Service</button>
+                <br>
+                <hr>
+                <p id="or">
+                    OR
+                </p>
+                <span id="sign-button">
+                    <a href="http://www.twitter.com/" target="_blank" rel="noopener"
+                        aria-label="visit our Twitter page opens in a new tap">Login with
+                        twitter</a>
+                </span>
+                <br>
+                <p id="sign-input">
+                    Do you have an account?<a href="wdone.html"
+                        aria-label="Link to sign in welcome page"><b>&nbsp;&nbsp;Sign in&nbsp;&nbsp;</b></a>
+                </p>
+            </form>
         </section>
-
     </main>
     <footer>
         <h2 class="hidden">Access</h2>

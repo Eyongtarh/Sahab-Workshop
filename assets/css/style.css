@@ -216,3 +216,101 @@ h3 {
     color: #f0f8ff;
     font-size: xx-large;
 }
+
+/* book.html page */
+
+.book-service {
+    margin: 3rem auto 5rem;
+    text-align: center;
+    padding: 30px;
+    background-color: #666363;
+    width: 80%;
+    border-radius: 10px;
+}
+
+#booking button {
+    padding: 2px;
+    background-color: #56bd17;
+    border: 2px solid #c0370d;
+    color: #f0f8ff;
+    border-radius: 20px;
+    width: 70%;
+    font-size: large;
+    cursor: pointer;
+}
+
+#booking button:hover {
+    background-color: #c0370d;
+    color: #f0f8ff;
+    border: 2px solid #f0f8ff;
+    border-radius: 20px;
+}
+
+#booking h2 {
+    color: #56bd17;
+}
+
+#booking h2 i {
+    color: #c0370d;
+}
+
+.text-input {
+    text-align: center;
+    margin: 5px 0;
+    height: 2rem;
+    width: 80%;
+    border-radius: 20px;
+    outline: none;
+    border: 1px solid #666363;
+}
+
+#both {
+    margin: 10px auto 20px;
+}
+
+hr {
+    margin: 20px auto 0;
+    width: 60%;
+}
+
+#or {
+    margin: -13px auto 10px;
+    background: #666363;
+    width: 40px;
+}
+
+#sign-button a {
+    text-decoration: none;
+    padding: 2px 10px;
+    background-color: #56bd17;
+    border: 2px solid #c0370d;
+    color: #f0f8ff;
+    border-radius: 20px;
+    font-size: large;
+    cursor: pointer;
+}
+
+#sign-button a:hover {
+    background-color: #c0370d;
+    color: #f0f8ff;
+    border: 2px solid #f0f8ff;
+    border-radius: 20px;
+}
+
+#sign-input {
+    margin: 20px auto;
+}
+
+#sign-input a {
+    color: #56bd17;
+    padding: 0 3px;
+    font-size: large;
+    text-decoration: none;
+}
+
+#sign-input a:hover {
+    background-color: #c0370d;
+    color: #f0f8ff;
+    border: 2px solid #f0f8ff;
+    border-radius: 20px;
+}
