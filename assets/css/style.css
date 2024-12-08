@@ -314,3 +314,101 @@ hr {
     border: 2px solid #f0f8ff;
     border-radius: 20px;
 }
+
+/* wdone.html page */
+
+.book-service h3 {
+    color: #56bd17;
+}
+
+/* Media Queries: Tablets (540px width and up) */
+@media screen and (min-width: 540px) {
+
+    #booking button {
+        width: 40%;
+    }
+
+    .text-input {
+        width: 50%;
+    }
+
+    hr {
+        width: 30%;
+    }
+
+}
+
+/* Media Queries: Tablets (800px width and up) */
+@media screen and (min-width: 800px) {
+    header {
+        height: 13rem;
+    }
+
+    nav {
+        display: flex;
+        flex: 1;
+        align-content: center;
+        justify-content: flex-end;
+        background-color: #56bd17;
+        margin-top: 1rem;
+    }
+
+    .menu-label {
+        display: none;
+    }
+
+    nav ul li {
+        display: inline-block;
+
+    }
+
+    nav ul li a {
+        padding: 3px 10px;
+    }
+
+    .book-service {
+        width: 50%;
+        margin-top: 6rem;
+    }
+
+    #access-home {
+        display: flex;
+        flex-direction: row;
+    }
+
+    #access-home div {
+        flex: 1;
+    }
+
+    #access-pic {
+        order: 0;
+    }
+
+    #access-two {
+        order: 1;
+    }
+
+    #access-one div {
+        align-self: flex-start;
+    }
+
+    #access-two div {
+        align-self: flex-end;
+    }
+}
+
+/* Media Queries: Laptops and destops (1000px width and up) */
+@media screen and (min-width: 1000px) {
+
+    #booking button {
+        width: 30%;
+    }
+
+    .text-input {
+        width: 40%;
+    }
+
+    hr {
+        width: 20%;
+    }
+}
