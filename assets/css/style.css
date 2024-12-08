@@ -105,12 +105,45 @@ nav a:hover {
 }
 
 
+/* index.html/weld.html pages */
 
-main {
-    margin-top: 19rem;
-    flex: 1 0 auto;
-    background-color: beige;
-    margin-top: 0px;
+.service-t {
+    text-align: center;
+}
+
+.access-col {
+    padding: 10px;
+    background-color: transparent;
+    text-align: center;
+    flex-basis: 24%;
+    flex-grow: 1;
+    padding-bottom: 2em;
+}
+
+.carw-pic {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    border-radius: 40%;
+    margin: auto;
+}
+
+.carw-pic img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    border-radius: 40%;
+    margin: auto;
 }
 
 /* Footer */
