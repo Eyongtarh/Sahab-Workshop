@@ -113,7 +113,52 @@ main {
     margin-top: 0px;
 }
 
-footer {
-    background-color: blue;
-    height: 10em;
+/* Footer */
+
+.access {
+    margin-top: 7em;
+    margin-bottom: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.all-access {
+    padding: 10px;
+    background-color: rgba(61, 73, 107, 0.8);
+    text-align: center;
+    flex-basis: 24%;
+    flex-grow: 1;
+    padding-bottom: 2em;
+}
+
+.socialm {
+    margin-top: 0;
+    max-height: 150px;
+    background-color: rgba(61, 73, 107, 0.8);
+    color: #f0f8ff;
+    justify-content: center;
+    align-items: center;
+}
+
+.socialm p,
+h3 {
+    text-align: center;
+}
+
+#media-icons {
+    margin-top: 1em;
+    padding: 20px 10px;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#media-icons i {
+    color: #c0370d;
+    font-size: x-large;
+}
+
+#media-icons i:hover {
+    color: #f0f8ff;
+    font-size: xx-large;
 }
