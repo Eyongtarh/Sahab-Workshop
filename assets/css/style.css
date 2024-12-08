@@ -23,18 +23,19 @@ body {
 }
 
 Header {
-    color: aqua;
-    height: 20px;
+    background-color: aqua;
+    height: 10em;
 }
 
 
 main {
     margin-top: 19rem;
     flex: 1 0 auto;
-    color: beige;
+    background-color: beige;
+    margin-top: 0px;
 }
 
 footer {
-    color: blue;
-    height: 20px;
+    background-color: blue;
+    height: 10em;
 }
