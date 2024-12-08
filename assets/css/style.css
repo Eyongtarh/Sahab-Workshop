@@ -81,7 +81,7 @@ nav ul li a {
 }
 
 nav a:hover {
-    background-color: #666363;
+    background-color: #56bd17;
     border-radius: 10px;
 }
 
@@ -364,6 +364,10 @@ hr {
 
     nav ul li a {
         padding: 3px 10px;
+    }
+
+    nav a:hover {
+        background-color: #666363;
     }
 
     .book-service {
