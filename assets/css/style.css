@@ -104,6 +104,27 @@ nav a:hover {
     justify-content: flex-end;
 }
 
+/* Main: section */
+
+main {
+    margin-top: 19rem;
+    flex: 1 0 auto;
+}
+
+h1 {
+    font-size: x-large;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #c0370d;
+}
+
+h2,
+h3 {
+    font-size: large;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #56bd17;
+}
 
 /* index.html/weld.html pages */
 
