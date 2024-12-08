@@ -1,131 +1,281 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome Augustine Eyong,
+# Sahab Workshops
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+[Link to SAHAB WORKSHOPS](https://eyongtarh.github.io/Sahab-Workshops/)
 
-You can safely delete this README.md file or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **June 18, 2024**
+SAHAB WORKSHOPS is a car maintainance and welding services provider. It seeks to make easy 
+access to services when need be in record time.
 
-## Gitpod Reminders
+## Features
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+### Header
 
-`python3 -m http.server`
+The header includes the name : SAHAB WORKSHOPS, and a car logo. Both have a link to home page. It also includes a 
+navigation bar. The navigation bar accommodates the links to the three pages: car repairs, welding, and a 
+booking page for services. The header can be seen below:
 
-A blue button should appear to click: _Make Public_,
+<a>
+<img src="assets/images/hder.png" alt="Header image for SAHAB WORKSHOPS">
+</a>
 
-Another blue button should appear to click: _Open Browser_.
+### Car Repairs Page
 
-To run a backend Python file, type `python3 app.py` if your Python file is named `app.py`, of course.
+Here, there are four different services availbe. Firstly, general repairs: a note explainin the types 
+of services offered here is introduced. It also highlights the importance of the environment in relation 
+to the services offered. Other services here icludes tryes, part replacement and car wash. Lastly, a 
+vintage car picture sits in it. See image below:
 
-A blue button should appear to click: _Make Public_,
+<a>
+<img src="assets/images/serv.png" alt="Car repairs page">
+</a>
 
-Another blue button should appear to click: _Open Browser_.
 
-By Default, Gitpod gives you superuser security privileges. Therefore, you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### Welding Page
 
-To log into the Heroku toolbelt CLI:
+The welding page is in the second page and includes a statement that indicates
+SAHAB WORKSHOPS is providing four types of welding services. Also , it emphasis the flow
+of a sustainable means to achieve its services. Below is an image of Welding page:
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+<a>
+<img src="assets/images/welserv.png" alt="Welding page">
+</a>
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you, so do not share it. If you accidentally make it public, you can create a new one with _Regenerate API Key_.
 
-### Connecting your Mongo database
+### Booking Service page
 
-- **Connect to Mongo CLI on a IDE**
-- navigate to your MongoDB Clusters Sandbox
-- click **"Connect"** button
-- select **"Connect with the MongoDB shell"**
-- select **"I have the mongo shell installed"**
-- choose **mongosh (2.0 or later)** for : **"Select your mongo shell version"**
-- choose option: **"Run your connection string in your command line"**
-- in the terminal, paste the copied code `mongo "mongodb+srv://<CLUSTER-NAME>.mongodb.net/<DBname>" --apiVersion 1 --username <USERNAME>`
-  - replace all `<angle-bracket>` keys with your own data
-- enter password _(will not echo **\*\*\*\*** on screen)_
+This is the third and final page. It provides form to fill which includes first name, 
+last name, and email. It also contains a datalist which indicates if someone 
+is in need of car repairs services or welding services. It also contains a checkbox for 
+those who are in need of both services. There is another checkbox to agree with terms of use.
+And finally, it it provides room to book service directly or login with a twitter account or sign in
+for existing account users. See photo below:
 
-------
+<a>
+<img src="assets/images/bserv.png" alt="Booking Services page">
+</a>
 
-## Release History
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+### The Footer
 
-**June 18, 2024,** Add Mongo back into template
+The footer is diveded into two parts: contact information and Social media as shown in the image below:
 
-**June 14, 2024,** Temporarily remove Mongo until the key issue is resolved
+<a>
+<img src="assets/images/fserv.png" alt="Footer page">
+</a>
 
-**May 28 2024:** Fix Mongo and Links installs
+#### Contact information
 
-**April 26 2024:** Update node version to 16
+The first part of the footer contains the contact information, address, opening hours and search bar. 
 
-**September 20 2023:** Update Python version to 3.9.17.
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+#### Socia Media
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+The footer contains three different features. The first is the opening hours of
+Carweld. The second feature are links to social media websites which opens in a 
+new page: Twitter, YouTube, Instagram, and Facebook. And lastly, a copyrights
+statement.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+## Testing
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+### Within Page
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+The links included in the page works perfectly.The book service form also shows a positive respond to use. The form submission feedback page is shown below:
+<a>
+<img src="assets/images/gserv.png" alt="Form Submission Page">
+</a>
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+### Lighthouse
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+#### The lighthouse test for page 1 is OK. 
+The lighthouse test for the Car repairs page is shown below :
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+<a>
+<img src="assets/images/lh1.png" alt="Lighthouse test for page 1">
+</a>
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+#### The lighthouse test for page 2 is OK. 
+The lighthouse test for the Welding page is shown below :
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+<a>
+<img src="assets/images/lh2.png" alt="Lighthouse test for page 1">
+</a>
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+#### The lighthouse test for page 3 is OK.  
+The lighthouse test for the book service page is shown below :
 
-------
+<a>
+<img src="assets/images/lh3.png" alt="Lighthouse test for page 1">
+</a>
 
-## FAQ about the uptime script
 
-**Why have you added this script?**
+### Media Queries 
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+The site works on different screen sizes and therefore, it is fully responsive. 
 
-**How will this affect me?**
+#### Responsive viewer
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+The Responsive viewer was used to test for site responsiveness. 
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+-A photo of page 1 is shown below:
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
 
-**So….?**
+<a>
+<img src="assets/images/iPhone-14-Proc.png" alt="Responsive Design iphone 14 pro" height="400">
+<img src="assets/images/iPhone-14-Pro-Maxc.png" alt="Responsive Design iphone 14 pro max" height="400">
+<img src="assets/images/Pixel-7-Proc.png" alt="Responsive Design Pixel-7" height="400">
+<img src="assets/images/iPad-Air-5c.png" alt="Responsive Design iPad-Air" height="400">
+<img src="assets/images/Macbook-Airc.png" alt="Responsive Design Mac Air" height="400">
+</a>
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+-A photo of page 2 is shown below:
 
-**Can I opt out?**
+<a>
+<img src="assets/images/iPhone-14-Prow.png" alt="Responsive Design iphone 14 pro" height="400">
+<img src="assets/images/iPhone-14-Pro-Maxw.png" alt="Responsive Design iphone 14 pro max" height="400">
+<img src="assets/images/Pixel-7-Prow.png" alt="Responsive Design Pixel-7" height="400">
+<img src="assets/images/iPad-Air-5w.png" alt="Responsive Design iPad-Air" height="400">
+<img src="assets/images/Macbook-Airw.png" alt="Responsive Design Mac Air" height="400">
+</a>
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+-A photo of page 3 is shown below:
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
 
-**Anything more?**
+<a>
+<img src="assets/images/iPhone-14-Prob.png" alt="Responsive Design iphone 14 pro" height="400">
+<img src="assets/images/iPhone-14-Pro-Maxb.png" alt="Responsive Design iphone 14 pro max" height="400">
+<img src="assets/images/Pixel-7-Prob.png" alt="Responsive Design Pixel-7" height="400">
+<img src="assets/images/iPad-Air-5b.png" alt="Responsive Design iPad-Air" height="400">
+<img src="assets/images/Macbook-Airb.png" alt="Responsive Design Mac Air" height="400">
+</a>
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
 
----
+Check out <a href="https://responsiveviewer.org/" target="_blank">Site Responsiveness</a> by Responsive viewer.
 
-Happy coding!
+#### Bytes
+
+The am i responsive was used to test for site responsiveness. 
+
+-A photo of page 1 is shown below:
+
+<a>
+<img src="assets/images/respn.png" alt="Responsive layout">
+</a>
+
+-A photo of page 2 is shown below:
+
+<a>
+<img src="assets/images/respn2.png" alt="Responsive layout">
+</a>
+
+-A photo of page 3 is shown below:
+
+<a>
+<img src="assets/images/respn3.png" alt="Responsive layout">
+</a>
+
+Check out <a href="https://ui.dev/amiresponsive?url=https://eyongtarh.github.io/Sahab-Workshops/" target="_blank">Site Responsiveness</a> by ui.dev/amiresponsive.
+
+
+### Validation Testing
+
+-The HTML validator for the three pages returned no errors when passing through the official W3C validator. 
+
+Page one:
+
+<a>
+<img src="assets/images/pg1validator.png" alt="Page one, w3 validator">
+</a>
+
+
+Page Two:
+
+<a>
+<img src="assets/images/pg2validator.png" alt="Page two, w3 validator">
+</a>
+
+
+Page Three:
+
+<a>
+<img src="assets/images/pg3validator.png" alt="Page three, w3 validator">
+</a>
+
+
+
+-The CSS validator shows no errors when passing through the official (Jigsaw) validator.
+
+<a>
+<img src="assets/images/cssvalidator.png" alt="Css jigsaw validator">
+</a>
+
+### Bugs
+
+#### Unfixed Bugs
+
+I have not noticed any unfixed bug at the moment.
+
+#### Fixed Bugs
+
+- The Menu bar was at the edge of the right.
+  * Solution: I added two spacing tags to move it from the edge.
+
+- The form section width was extensive in laptops and desktop screen sizes. 
+  * Solution: This was resolved by setting reducing the width percentage for larger screen sizes.
+
+- The header overlaped the nav section.
+  * Solution: The remedy was to add margin-top to nav section to push it down to the base of header.
+
+
+## Technologies Used
+- HTML is used as the framework of the site
+- CSS is applied for the styles and site layout
+- Gitpod is used for writing the and editing the codes.
+- Git and Github used for version control and hosting website codes respectively.
+- W3C validator was used to validate the html and css codes.
+- Responsive Viewer was used to analise the website responsiveness.
+
+## Deployment to GitHub Pages
+
+This site is deployed to GitHub pages. Theprocedure is viz:
+- Go to GitHub repository and click on Settings.
+- At the left side, click on pages.
+- At the source section drop-down menu, select the Main Branch
+- At this point, click save, the page will be automatically refreshed.
+- A link will be available and indicate the successful deployment.
+- If not , refresh the page.
+
+## Future improvements
+- More content can be added.
+- There is also a need to make appropriate comments within my code lines and commit statement.
+- The form can be made to validate to a server in the long run.
+
+## Credits
+
+I got some help from the Love running project, course content, Wikipedia , hot air tools website.
+
+### Content 
+
+I used font awesome and Google fonts.  
+
+### Media
+ - Background images, Favicon image, and images used within pages are from: [Pexels](https://www.pexels.com/).
+ - I also used personal images and video.
+
+
+#### Tools
+ - [Compress JPEG](https://compressjpeg.com/) was used to compress JPEG images.
+ - [IMGonline.com.ua](https://www.imgonline.com.ua/eng/resize-image.php) was used to resize images.
+ - [FAVICON GENERATOR](https://favicon.io/) was used to generate the favicon.
+ - [bytes](https://ui.dev/amiresponsive?url=https://eyongtarh.github.io/Eyongtarh-Tennis-Club/" ) was used to test website 
+   responsiveness.
+
+
+## Acknowledgments
+
+- [Code Institute](https://codeinstitute.net/) tutors and Mentor for their continues support.
+- [Hot Air Tools](https://www.hotairtools.com/) content for welding page.
+
+
