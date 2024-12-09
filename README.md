@@ -160,19 +160,19 @@ The am i responsive was used to test for site responsiveness also.
 -A photo of Car Repairs page is shown below:
 
 <a>
-<img src="assets/images/respn.png" alt="Responsive layout">
+<img src="assets/images/respn.png" alt="Responsive layout for car repairs page">
 </a>
 
 -A photo of Welding page is shown below:
 
 <a>
-<img src="assets/images/respn2.png" alt="Responsive layout">
+<img src="assets/images/respn2.png" alt="Responsive layout for welding page">
 </a>
 
 -A photo of Book Service page is shown below:
 
 <a>
-<img src="assets/images/respn3.png" alt="Responsive layout">
+<img src="assets/images/respn3.png" alt="Responsive layout for book service page">
 </a>
 
 Check out <a href="https://ui.dev/amiresponsive?url=https://eyongtarh.github.io/Sahab-Workshop/" target="_blank">Site Responsiveness</a> by ui.dev/amiresponsive.
@@ -182,24 +182,24 @@ Check out <a href="https://ui.dev/amiresponsive?url=https://eyongtarh.github.io/
 
 -The HTML validator for the three pages returned no errors when passing through the official W3C validator. 
 
-Page one:
+Car Repairs Page:
 
 <a>
-<img src="assets/images/pg1validator.png" alt="Page one, w3 validator">
+<img src="assets/images/pg1validator.png" alt="Car repairs page, w3 validator">
 </a>
 
 
-Page Two:
+Welding Page:
 
 <a>
-<img src="assets/images/pg2validator.png" alt="Page two, w3 validator">
+<img src="assets/images/pg2validator.png" alt="Welding page, w3 validator">
 </a>
 
 
-Page Three:
+Book Service Page:
 
 <a>
-<img src="assets/images/pg3validator.png" alt="Page three, w3 validator">
+<img src="assets/images/pg3validator.png" alt="Book service page, w3 validator">
 </a>
 
 
