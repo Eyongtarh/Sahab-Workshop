@@ -155,27 +155,27 @@ Check out <a href="https://responsiveviewer.org/" target="_blank">Site Responsiv
 
 #### Bytes
 
-The am i responsive was used to test for site responsiveness. 
+The am i responsive was used to test for site responsiveness also. 
 
--A photo of page 1 is shown below:
+-A photo of Car Repairs page is shown below:
 
 <a>
 <img src="assets/images/respn.png" alt="Responsive layout">
 </a>
 
--A photo of page 2 is shown below:
+-A photo of Welding page is shown below:
 
 <a>
 <img src="assets/images/respn2.png" alt="Responsive layout">
 </a>
 
--A photo of page 3 is shown below:
+-A photo of Book Service page is shown below:
 
 <a>
 <img src="assets/images/respn3.png" alt="Responsive layout">
 </a>
 
-Check out <a href="https://ui.dev/amiresponsive?url=https://eyongtarh.github.io/Sahab-Workshops/" target="_blank">Site Responsiveness</a> by ui.dev/amiresponsive.
+Check out <a href="https://ui.dev/amiresponsive?url=https://eyongtarh.github.io/Sahab-Workshop/" target="_blank">Site Responsiveness</a> by ui.dev/amiresponsive.
 
 
 ### Validation Testing
