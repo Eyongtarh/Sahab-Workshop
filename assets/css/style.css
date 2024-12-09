@@ -9,7 +9,6 @@
     box-sizing: border-box;
 }
 
-
 /*General Rules*/
 body {
     background: black;
@@ -29,7 +28,6 @@ body {
 H1 {
     font-family: "Roboto", sans-serif;
 }
-
 
 /* Header */
 header {
@@ -90,7 +88,6 @@ nav a:hover {
 }
 
 /* Menu bar*/
-
 #menu-icon:checked~nav {
     display: block;
 }
@@ -105,7 +102,6 @@ nav a:hover {
 }
 
 /* Main: section */
-
 main {
     margin-top: 19rem;
     flex: 1 0 auto;
@@ -127,7 +123,6 @@ h3 {
 }
 
 /* index.html/weld.html pages */
-
 .service-t {
     text-align: center;
 }
@@ -168,7 +163,6 @@ h3 {
 }
 
 /* Footer */
-
 .access {
     margin-top: 7em;
     margin-bottom: 0;
@@ -218,7 +212,6 @@ h3 {
 }
 
 /* book.html page */
-
 .book-service {
     margin: 3rem auto 5rem;
     text-align: center;
@@ -316,14 +309,12 @@ hr {
 }
 
 /* wdone.html page */
-
 .book-service h3 {
     color: #56bd17;
 }
 
 /* Media Queries: Tablets (540px width and up) */
 @media screen and (min-width: 540px) {
-
     #booking button {
         width: 40%;
     }
@@ -335,7 +326,6 @@ hr {
     hr {
         width: 30%;
     }
-
 }
 
 /* Media Queries: Tablets (800px width and up) */
@@ -359,7 +349,6 @@ hr {
 
     nav ul li {
         display: inline-block;
-
     }
 
     nav ul li a {
@@ -403,7 +392,6 @@ hr {
 
 /* Media Queries: Laptops and destops (1000px width and up) */
 @media screen and (min-width: 1000px) {
-
     #booking button {
         width: 30%;
     }
