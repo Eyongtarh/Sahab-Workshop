@@ -202,7 +202,11 @@ Book Service Page:
 <img src="assets/images/pg3validator.png" alt="Book service page, w3 validator">
 </a>
 
+-The HTML validator for the form submission page also returned no errors when passing through the official W3C validator. 
 
+<a>
+<img src="assets/images/fsvalidator.png" alt="Form validation page, w3 validator">
+</a>
 
 -The CSS validator shows no errors when passing through the official (Jigsaw) validator.
 
