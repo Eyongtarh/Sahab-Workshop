@@ -3,19 +3,19 @@
 
 [Link to SAHAB WORKSHOP](https://eyongtarh.github.io/Sahab-Workshop/)
 
-SAHAB WORKSHOPS is a car maintainance and welding services provider. It seeks to make easy 
+SAHAB WORKSHOP is a car maintainance and welding services provider. It seeks to make easy 
 access to services when need be in record time.
 
 ## Features
 
 ### Header
 
-The header includes the name : SAHAB WORKSHOPS, and a car logo. Both have a link to home page. It also includes a 
+The header includes the name : SAHAB WORKSHOP, and a car logo. Both have a link to home page. It also includes a 
 navigation bar. The navigation bar accommodates the links to the three pages: car repairs, welding, and a 
 booking page for services. The header can be seen below:
 
 <a>
-<img src="assets/images/hder.png" alt="Header image for SAHAB WORKSHOPS">
+<img src="assets/images/hder.png" alt="Header image for SAHAB WORKSHOP">
 </a>
 
 ### Car Repairs Page
@@ -33,7 +33,7 @@ vintage car picture sits in it. See image below:
 ### Welding Page
 
 The welding page is in the second page and includes a statement that indicates
-SAHAB WORKSHOPS is providing four types of welding services. Also , it emphasis the flow
+SAHAB WORKSHOP is providing four types of welding services. Also , it emphasis the flow
 of a sustainable means to achieve its services. Below is an image of Welding page:
 
 <a>
