@@ -122,32 +122,32 @@ The Responsive viewer was used to test for site responsiveness.
 
 
 <a>
-<img src="assets/images/iPhone-14-Proc.png" alt="Responsive Design iphone 14 pro" height="400">
-<img src="assets/images/iPhone-14-Pro-Maxc.png" alt="Responsive Design iphone 14 pro max" height="400">
-<img src="assets/images/Pixel-7-Proc.png" alt="Responsive Design Pixel-7" height="400">
-<img src="assets/images/iPad-Air-5c.png" alt="Responsive Design iPad-Air" height="400">
-<img src="assets/images/Macbook-Airc.png" alt="Responsive Design Mac Air" height="400">
+<img src="assets/images/iphone-14-proc.png" alt="Responsive Design iphone 14 pro" height="400">
+<img src="assets/images/iphone-14-pro-maxc.png" alt="Responsive Design iphone 14 pro max" height="400">
+<img src="assets/images/pixel-7-proc.png" alt="Responsive Design Pixel-7" height="400">
+<img src="assets/images/ipad-air-5c.png" alt="Responsive Design iPad-Air" height="400">
+<img src="assets/images/macbook-airc.png" alt="Responsive Design Mac Air" height="400">
 </a>
 
 -A photo of Welding page is shown below:
 
 <a>
-<img src="assets/images/iPhone-14-Prow.png" alt="Responsive Design iphone 14 pro" height="400">
-<img src="assets/images/iPhone-14-Pro-Maxw.png" alt="Responsive Design iphone 14 pro max" height="400">
-<img src="assets/images/Pixel-7-Prow.png" alt="Responsive Design Pixel-7" height="400">
-<img src="assets/images/iPad-Air-5w.png" alt="Responsive Design iPad-Air" height="400">
-<img src="assets/images/Macbook-Airw.png" alt="Responsive Design Mac Air" height="400">
+<img src="assets/images/iphone-14-prow.png" alt="Responsive Design iphone 14 pro" height="400">
+<img src="assets/images/iphone-14-pro-maxw.png" alt="Responsive Design iphone 14 pro max" height="400">
+<img src="assets/images/pixel-7-prow.png" alt="Responsive Design Pixel-7" height="400">
+<img src="assets/images/ipad-air-5w.png" alt="Responsive Design iPad-Air" height="400">
+<img src="assets/images/macbook-airw.png" alt="Responsive Design Mac Air" height="400">
 </a>
 
 -A photo of Book Service page is shown below:
 
 
 <a>
-<img src="assets/images/iPhone-14-Prob.png" alt="Responsive Design iphone 14 pro" height="400">
-<img src="assets/images/iPhone-14-Pro-Maxb.png" alt="Responsive Design iphone 14 pro max" height="400">
-<img src="assets/images/Pixel-7-Prob.png" alt="Responsive Design Pixel-7" height="400">
-<img src="assets/images/iPad-Air-5b.png" alt="Responsive Design iPad-Air" height="400">
-<img src="assets/images/Macbook-Airb.png" alt="Responsive Design Mac Air" height="400">
+<img src="assets/images/iphone-14-prob.png" alt="Responsive Design iphone 14 pro" height="400">
+<img src="assets/images/iphone-14-pro-maxb.png" alt="Responsive Design iphone 14 pro max" height="400">
+<img src="assets/images/pixel-7-prob.png" alt="Responsive Design Pixel-7" height="400">
+<img src="assets/images/ipad-air-5b.png" alt="Responsive Design iPad-Air" height="400">
+<img src="assets/images/macbook-airb.png" alt="Responsive Design Mac Air" height="400">
 </a>
 
 
