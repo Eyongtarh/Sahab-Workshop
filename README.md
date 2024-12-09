@@ -1,7 +1,7 @@
 
-# Sahab Workshops
+# Sahab Workshop
 
-[Link to SAHAB WORKSHOPS](https://eyongtarh.github.io/Sahab-Workshops/)
+[Link to SAHAB WORKSHOP](https://eyongtarh.github.io/Sahab-Workshop/)
 
 SAHAB WORKSHOPS is a car maintainance and welding services provider. It seeks to make easy 
 access to services when need be in record time.
