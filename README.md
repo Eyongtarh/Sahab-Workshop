@@ -90,7 +90,7 @@ The links included in the page works perfectly.The book service form also shows 
 The lighthouse test for the Car repairs page is shown below :
 
 <a>
-<img src="assets/images/lh1.png" alt="Lighthouse test for page 1">
+<img src="assets/images/lh1.png" alt="Lighthouse test for Car Repairs page">
 </a>
 
 
@@ -98,7 +98,7 @@ The lighthouse test for the Car repairs page is shown below :
 The lighthouse test for the Welding page is shown below :
 
 <a>
-<img src="assets/images/lh2.png" alt="Lighthouse test for page 1">
+<img src="assets/images/lh2.png" alt="Lighthouse test for Welding page">
 </a>
 
 
@@ -106,7 +106,7 @@ The lighthouse test for the Welding page is shown below :
 The lighthouse test for the book service page is shown below :
 
 <a>
-<img src="assets/images/lh3.png" alt="Lighthouse test for page 1">
+<img src="assets/images/lh3.png" alt="Lighthouse test for Book Service page">
 </a>
 
 
