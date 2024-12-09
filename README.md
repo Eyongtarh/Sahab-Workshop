@@ -110,7 +110,7 @@ The lighthouse test for the book service page is shown below :
 </a>
 
 
-### Media Queries 
+### Responsive Test 
 
 The site works on different screen sizes and therefore, it is fully responsive. 
 
@@ -153,9 +153,9 @@ The Responsive viewer was used to test for site responsiveness.
 
 Check out <a href="https://responsiveviewer.org/" target="_blank">Site Responsiveness</a> by Responsive viewer.
 
-#### Bytes
+#### Am I Responsive
 
-The am i responsive was used to test for site responsiveness also. 
+The am i responsive was also used to test for site responsiveness. 
 
 -A photo of Car Repairs page is shown below:
 
