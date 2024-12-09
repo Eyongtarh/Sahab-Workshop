@@ -118,7 +118,7 @@ The site works on different screen sizes and therefore, it is fully responsive.
 
 The Responsive viewer was used to test for site responsiveness. 
 
--A photo of page 1 is shown below:
+-A photo of Car Repairs page is shown below:
 
 
 <a>
@@ -129,7 +129,7 @@ The Responsive viewer was used to test for site responsiveness.
 <img src="assets/images/Macbook-Airc.png" alt="Responsive Design Mac Air" height="400">
 </a>
 
--A photo of page 2 is shown below:
+-A photo of Welding page is shown below:
 
 <a>
 <img src="assets/images/iPhone-14-Prow.png" alt="Responsive Design iphone 14 pro" height="400">
@@ -139,7 +139,7 @@ The Responsive viewer was used to test for site responsiveness.
 <img src="assets/images/Macbook-Airw.png" alt="Responsive Design Mac Air" height="400">
 </a>
 
--A photo of page 3 is shown below:
+-A photo of Book Service page is shown below:
 
 
 <a>
