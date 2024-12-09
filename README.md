@@ -254,7 +254,7 @@ This site is deployed to GitHub pages. Theprocedure is viz:
 
 ## Credits
 
-I got some help from the Love running project, course content, Wikipedia , hot air tools website.
+I got some help from the Love running project, course content, Wikipedia , hot air tools website and my failed project.
 
 ### Content 
 
@@ -262,7 +262,7 @@ I used font awesome and Google fonts.
 
 ### Media
  - Background images, Favicon image, and images used within pages are from: [Pexels](https://www.pexels.com/).
- - I also used personal images and video.
+ - I also used personal images.
 
 
 #### Tools
