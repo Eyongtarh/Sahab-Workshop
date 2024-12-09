@@ -222,7 +222,7 @@ I have not noticed any unfixed bug at the moment.
   * Solution: I added two spacing tags to move it from the edge.
 
 - The form section width was extensive in laptops and desktop screen sizes. 
-  * Solution: This was resolved by setting reducing the width percentage for larger screen sizes.
+  * Solution: This was resolved by reducing the width percentage for larger screen sizes.
 
 - The header overlaped the nav section.
   * Solution: The remedy was to add margin-top to nav section to push it down to the base of header.
@@ -232,7 +232,8 @@ I have not noticed any unfixed bug at the moment.
 - HTML is used as the framework of the site
 - CSS is applied for the styles and site layout
 - Gitpod is used for writing the and editing the codes.
-- Git and Github used for version control and hosting website codes respectively.
+- Git is used for version control.
+- Github is used for hosting website codes.
 - W3C validator was used to validate the html and css codes.
 - Responsive Viewer was used to analise the website responsiveness.
 
