@@ -79,7 +79,7 @@ statement.
 
 ### Within Page
 
-The links included in the page works perfectly.The book service form also shows a positive respond to use. The form submission feedback page is shown below:
+The links included in the page works perfectly.The book service form also shows a positive respond to form validation. The form validation page is shown below:
 <a>
 <img src="assets/images/gserv.png" alt="Form Submission Page">
 </a>
