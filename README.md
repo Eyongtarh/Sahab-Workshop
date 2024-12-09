@@ -70,9 +70,8 @@ The first part of the footer contains the contact information, address, opening 
 
 #### Socia Media
 
-The footer contains three different features. The first is the opening hours of
-Carweld. The second feature are links to social media websites which opens in a 
-new page: Twitter, YouTube, Instagram, and Facebook. And lastly, a copyrights
+The second part contains links to social media websites which opens in a 
+new page: Facebook, Twitter, Instagram, and YouTube. And lastly, a copyrights
 statement.
 
 
