@@ -41,14 +41,13 @@ of a sustainable means to achieve its services. Below is an image of Welding pag
 </a>
 
 
-### Booking Service page
+### Book Service page
 
 This is the third and final page. It provides form to fill which includes first name, 
 last name, and email. It also contains a datalist which indicates if someone 
 is in need of car repairs services or welding services. It also contains a checkbox for 
 those who are in need of both services. There is another checkbox to agree with terms of use.
-And finally, it it provides room to book service directly or login with a twitter account or sign in
-for existing account users. See photo below:
+And finally, it it provides room to book service.
 
 <a>
 <img src="assets/images/bserv.png" alt="Booking Services page">
