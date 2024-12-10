@@ -233,6 +233,7 @@ I have not noticed any unfixed bug at the moment.
 
 
 ## Technologies Used
+
 - HTML is used as the framework of the site
 - CSS is applied for the styles and site layout
 - Gitpod is used for writing the and editing the codes.
@@ -243,7 +244,7 @@ I have not noticed any unfixed bug at the moment.
 
 ## Deployment to GitHub Pages
 
-This site is deployed to GitHub pages. Theprocedure is viz:
+This site is deployed to GitHub pages. The procedure is viz:
 - Go to GitHub repository and click on Settings.
 - At the left side, click on pages.
 - At the source section drop-down menu, select the Main Branch
@@ -252,19 +253,21 @@ This site is deployed to GitHub pages. Theprocedure is viz:
 - If not , refresh the page.
 
 ## Future improvements
+
 - More content can be added.
 - There is also a need to make appropriate comments within my code lines and commit statement.
 - The form can be made to validate to a server in the long run.
 
 ## Credits
 
-I got some help from the Love running project, course content, Wikipedia , hot air tools website and my failed project.
+I got some help from the Love running project, course content, Wikipedia , hot air tools website and my old project.
 
 ### Content 
 
 I used font awesome and Google fonts.  
 
 ### Media
+
  - Background images, Favicon image, and images used within pages are from: [Pexels](https://www.pexels.com/).
  - I also used personal images.
 
