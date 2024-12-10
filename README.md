@@ -108,7 +108,6 @@ The lighthouse test for the book service page is shown below :
 <img src="assets/images/lh3.png" alt="Lighthouse test for Book Service page">
 </a>
 
-
 ### Responsive Test 
 
 The site works on different screen sizes and therefore, it is fully responsive. 
