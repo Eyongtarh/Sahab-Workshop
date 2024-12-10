@@ -64,7 +64,7 @@ The footer is diveded into two parts: contact information and Social media as sh
 
 #### Contact information
 
-The first part of the footer contains the contact information, address, opening hours and search bar. 
+The first part of the footer contains the contact information, address, opening hours and career. 
 
 
 #### Socia Media
